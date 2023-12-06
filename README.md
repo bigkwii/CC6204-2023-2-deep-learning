@@ -8,6 +8,8 @@ Tareas del curso CC6204 - Deep Learning, DCC, FCFM, Universidad de Chile, Semest
 
 Buen ramo :3
 
+Nota: Las T1, T2 y T3 son tareas normales de DL, pero la T4 terminó siendo hacer una infografía sobre DL, hecha de tal manera que hasta un niño de 10 años pueda entender.
+
 ## Requerimientos
 
 - Python 3.X.X
